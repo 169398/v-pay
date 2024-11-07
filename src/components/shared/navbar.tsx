@@ -38,7 +38,7 @@ export function Navbar() {
         <div className="flex items-center gap-4">
           <SidebarTrigger className="lg:hidden" />
           <Link href="/" className="flex items-center gap-2">
-            <span className="font-semibold">V-Pay</span>
+            <span className="font-semibold">Vpay</span>
           </Link>
         </div>
 
