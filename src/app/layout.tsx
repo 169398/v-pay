@@ -18,7 +18,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "V-Pay",
+  title: "Vpay",
   description: "Payments for everyone",
 };
 
